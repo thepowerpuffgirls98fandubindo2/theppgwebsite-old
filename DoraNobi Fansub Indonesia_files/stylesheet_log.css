@@ -1,0 +1,149 @@
+
+
+/*What'sNew•”•ª*/
+#wn{
+margin:0 20px;
+}
+#wnTTL{
+padding-top:40px;
+color:#898989;
+}
+hr{
+clear:both;
+margin:10px 0;
+border-top-width: 1px;
+border-right-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 0px;
+border-top-style: dotted;
+border-top-color: #717171;
+}
+.wnhr{
+margin-bottom:10px;
+}
+.wnList{
+margin:0 auto;
+}
+.wnDate{
+width: 70px;
+vertical-align: middle;
+text-align:left;
+font-size:12px;
+line-height:1.0em;
+}
+.wnDate .newTXT{
+display:block;
+font-weight:bold;
+color:#f20005;
+}
+.wnPt{
+width:20px;
+background:url(images_top/whatsnew_date.html) no-repeat center center;
+}
+.wnTopics{
+width: 800px;
+vertical-align: middle;
+text-align:left;
+}
+.wnTopics p{
+clear:both;
+font-size:14px;
+-webkit-text-size-adjust: 100%;
+text-size-adjust: 100%;
+margin:0;
+padding:0;
+color:#CCC;
+}
+.wnTopics a{
+color:#717171;
+}
+.wnTopics p span{
+display:block;
+float:left;
+margin:0 10px 3px 5px;
+font-size:10px;
+font-weight:bold;
+padding:2px;
+width:74px;
+text-align:center;
+color:#FFF;
+}
+.wnNEWS{
+background-color:#5a97e9;
+}
+.wnBOOK{
+background-color:#fbb841;
+}
+.wnDVD{
+background-color:#73cfd1;
+}
+.wnGOODS{
+background-color:#acd241;
+}
+.wnEVENT{
+background-color:#d577be;
+}
+.wnAPP{
+background-color:#4ba8c9;
+}
+.wnEIGA{
+background-color:#caba7e;
+}
+.wnGAME{
+background-color:#5bb4ed;
+}
+.wnCOMIC{
+background-color:#887ec1;
+}
+.wnDORADIO{
+background-color:#fd8b46;
+}
+.wnDOWNLOAD{
+background-color:#76c694;
+}
+.wnNURIE{
+background-color:#f988b7;
+}
+.wnSP{
+background-color:#FF6000;
+}
+.wnPRESENT{
+background-color:#FF8C98;
+}
+.wnF80{
+background:#B365AC;
+}
+.more{
+float:right;
+margin:10px auto 20px auto;
+}
+.floatClear{
+clear:both;
+}
+.floatClearMargin{
+clear:both;
+height:20px;
+}
+.wnTopics a{
+text-decoration:none;
+}
+.topicSP a{
+	color:#F60;
+}
+.wnTopics a:hover{
+background-color:#FF6;
+text-decoration:none;
+}
+.wnTopics a:active{
+color:#FA0;
+text-decoration:none;
+}
+.obi{
+	width:100%;
+	background:#b3b3b3;
+	margin:0;
+	padding:0;
+}
+#contents{
+	/*background:#FFE;*/
+}
